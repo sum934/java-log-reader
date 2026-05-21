@@ -23,6 +23,7 @@ Projeto criado para praticar:
 Como executar
 
 ```bash
-javac *.java<img width="1115" height="965" alt="Captura de tela 2026-05-21 075050" src="https://github.com/user-attachments/assets/b8c880cb-3742-412f-a0c6-b14d8545fb19" />
-
+javac *.java
 java AppLeitorLog
+<img width="1115" height="965" alt="Captura de tela 2026-05-21 075050" src="https://github.com/user-attachments/assets/ec41c76c-7312-4c64-9be5-a81252b744ab" />
+
