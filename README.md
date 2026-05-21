@@ -25,5 +25,5 @@ Como executar
 ```bash
 javac *.java
 java AppLeitorLog
-<img width="1115" height="965" alt="Captura de tela 2026-05-21 075050" src="https://github.com/user-attachments/assets/ec41c76c-7312-4c64-9be5-a81252b744ab" />
+![Preview](preview.png)
 
